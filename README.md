@@ -1,3 +1,4 @@
 # YTaudiodownloader
-YouTube Audio Downloader written in Python
-oye
+YouTube Audio Downloader written in Python\n
+tkinter ve pytube
+
