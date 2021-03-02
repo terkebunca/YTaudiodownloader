@@ -44,7 +44,7 @@ main.configure(bg="gray10")
 main.columnconfigure(0, weight=1)
 main.resizable(False, False)
 
-welcome = tkinter.Label(main, text="INDIREGANDI", bg="gray10", fg="white", font=("DOCALLISME ON STREET", 20))
+welcome = tkinter.Label(main, text="*isim*", bg="gray10", fg="white", font=("DOCALLISME ON STREET", 20))
 welcome.place(anchor="center")
 welcome.pack(pady=8)
 
